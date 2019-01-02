@@ -1,0 +1,19 @@
+{
+  "name": "subscriber",
+  "version": "1.0.0",
+  "description": "mqtt clinet that subscribe to topic",
+  "main": "subscriber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Mazen Babgi",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
